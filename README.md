@@ -7,6 +7,7 @@
 
 ## 系列文章
 [Android 性能优化 - 胡凯](http://hukai.me/blog/categories/android-performance/)
+
 [安卓自定义View教程目录 - GcsSloop](http://www.gcssloop.com/customview/CustomViewIndex)
 
 ## Android 
