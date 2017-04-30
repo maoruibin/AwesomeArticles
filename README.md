@@ -15,13 +15,16 @@
 * Activity 启动模式
     * [我打赌你一定没搞明白的Activity启动模式](http://www.jianshu.com/p/2a9fcf3c11e4)
     > 讲的很透彻，读完后你会对 Activity 的启动模式，任务栈有更深的了解。
+    
 * View 事件分发[Carson_Ho](http://www.jianshu.com/u/383970bef0a0) 
     * [Android事件分发机制详解：史上最全面、最易懂](http://www.jianshu.com/p/38015afcdb58)
     > 图文并茂，非常有条理，读事件分发，只此一篇文章即可，不用多找。另外作者的一些其他文章貌似也不错。
+    
 * Handler 异步通信[Carson_Ho](http://www.jianshu.com/u/383970bef0a0) 
     * [Handler异步通信机制全面解析](http://www.jianshu.com/p/9fe944ee02f7)
-    > 图文的方方面面都说到了，描述很精准，深度好文。
-* Fragment完全解析（[YoKey](https://github.com/YoKeyword)）  
+    > Handler 的方方面面都说到了，描述很精准，深度好文。     
+    
+* Fragment完全解析[YoKey](https://github.com/YoKeyword)  
     * [Fragment完全解析三步曲 ](http://www.jianshu.com/p/d9143a92ad94)
     > 对 Fragment 中的各种 bug 做了解释,并提供了解决方案，良心作者。
 
