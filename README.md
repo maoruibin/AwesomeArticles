@@ -12,6 +12,11 @@
 
 ## Android 
 
-[我打赌你一定没搞明白的Activity启动模式](http://www.jianshu.com/p/2a9fcf3c11e4)
->讲的很透彻，读完后你会对 Activity 的启动模式，任务栈有更深的了解。
+* Activity 启动模式
+    * [我打赌你一定没搞明白的Activity启动模式](http://www.jianshu.com/p/2a9fcf3c11e4)
+    > 讲的很透彻，读完后你会对 Activity 的启动模式，任务栈有更深的了解。
+* View 事件分发 
+    * [Android事件分发机制详解：史上最全面、最易懂](http://blog.csdn.net/carson_ho/article/details/54136311)
+    > 图文并茂，非常有条理，读事件分发，只此一篇文章即可，不用多找。另外作者的一些其他文章貌似也不错。
+
 
