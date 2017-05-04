@@ -28,7 +28,7 @@
     > Handler 的方方面面都说到了，描述很精准，深度好文。     
 
 * Fragment 全解析[YoKey](https://github.com/YoKeyword)  
-    *[Fragment完全解析三步曲 ](http://www.jianshu.com/p/d9143a92ad94)
+    * [Fragment完全解析三步曲 ](http://www.jianshu.com/p/d9143a92ad94)
     > 对 Fragment 中的各种 bug 做了解释,并提供了解决方案，良心作者。
     
 * Android 进程包活 张兴华
