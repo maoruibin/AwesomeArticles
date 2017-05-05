@@ -57,8 +57,10 @@
 
 * [微博主页](http://weibo.com/u/1874136301)
 
-<img src="http://7xr9gx.com1.z0.glb.clouddn.com/qrcode_for_gh_58ac6be237a4_430.jpg" style="width: 50%;">
-<center> 公众号 - 大侠咕咚</center >
+> <img src="http://7xr9gx.com1.z0.glb.clouddn.com/qrcode_for_gh_58ac6be237a4_430.jpg" style="width: 50%;">
+
+> 公众号 - 大侠咕咚
+>>>>>>> 706fe25dba35cf70dbda23e5572a893ff01f8115
 
 
 
