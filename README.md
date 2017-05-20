@@ -17,7 +17,11 @@
 
 ## Android 
 
-- [如何正确地写出单例模式](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/) 2014-08-28 - [Jark's Blog](http://wuchong.me/) - 个人博客
+- [Java多线程同步机制(synchronized)](http://blog.csdn.net/openpk/article/details/5383873)    [openpk](http://my.csdn.net/openpk) - CSDN - 2010-03-16
+
+> 比较久的一篇文章了，但是对 Synchronize 关键字的解释非常到位，用上厕所的比喻来解释线程同步的概念，例子非常鲜活，好文章。
+
+- [如何正确地写出单例模式](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/)    [Jark's Blog](http://wuchong.me/) - 个人博客 - 2014-08-28
 
 > 对单例模式的异同点，为什么这样写都有很好的描述和解答，非常不错的文章。
 
