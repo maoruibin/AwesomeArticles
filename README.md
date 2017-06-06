@@ -9,19 +9,19 @@
 * 3、issue 中收集编辑自己整理一些文章片段。
 
 ## 系列文章
-[Android 性能优化](http://hukai.me/blog/categories/android-performance/)
+- [Android 性能优化](http://hukai.me/blog/categories/android-performance/)
 
- 作者：[胡凯](http://hukai.me)  时间：2010-03-16  来源：个人博客
+   作者：[胡凯](http://hukai.me)  时间：2010-03-16  来源：个人博客
 
-> 性能优化的方方面面，在这里大概都讲到了。
+   > 性能优化的方方面面，在这里大概都讲到了。
+   ----
 
+- [安卓自定义 View 教程](http://www.gcssloop.com/customview/CustomViewIndex)
 
-[安卓自定义 View 教程](http://www.gcssloop.com/customview/CustomViewIndex)
+   作者：[GcsSloop](http://www.gcssloop.com)  时间：2016-01-05  来源：个人博客
 
-作者：[GcsSloop](http://www.gcssloop.com)  时间：2016-01-05  来源：个人博客
-
-> 详细的自定义 View 教程，从0到1，带你了解自定义 View 的方方面面。 
-
+   > 详细的自定义 View 教程，从0到1，带你了解自定义 View 的方方面面。 
+   ----
 
 ## Android / Java
 
