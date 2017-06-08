@@ -25,9 +25,15 @@
 
 ## Android / Java
 
+- [Java并发编程：volatile 关键字解析](http://www.importnew.com/18126.html)
+    
+    作者：[海子](https://home.cnblogs.com/u/dolphin0520/)   时间：2014-08-22  来源：ImportNew   
+   > 作者围绕 volatile 关键字把 Java 内存模型以及 Java 运算中的原子性，可见性，有序性有非常深入的分析了一下，读完文章会让你对主内存、工作内存从硬件和软件层面都会有一个非常好的认识。
+    ---- 
+
 - [Java8系列之重新认识HashMap](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651745258&idx=1&sn=df5ffe0fd505a290d49095b3d794ae7a&mpshare=1&scene=1&srcid=0602KPwDM6cb3PTVMdtZ0oX1&key=807bd2816f4e789364526e7bba50ceab7c749cfaca8f63fc1c6b02b65966062194edbc2e5311116c053ad5807fa33c366a23664f76b0b440a62a3d40ec12e7e72973b0481d559380178671cc3771a0db&ascene=0&uin=NjkzMTg2NDA%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=ebineaMbB8BVIeUpnUZjBm8%2BZice%2Bhba5IDsVDpufNY%3D)
 
-   作者：[李前]()  时间：2016-06-24  来源：公众号
+   作者：[李前]()   时间：2016-06-24  来源：公众号
 
    > 见过对 HashMap 分析最透彻的一篇文章了，HashMap 作为面试高频考点，读这篇文章没错！
    
@@ -35,7 +41,7 @@
 
 - [LinkedHashMap 的实现原理](http://wiki.jikexueyuan.com/project/java-collection/linkedhashmap.html)
 
-   作者：[李大辉](http://tracylihui.github.io/)  时间：2016  来源：极客学院
+   作者：[李大辉](http://tracylihui.github.io/)   时间：2016  来源：极客学院
 
    > LinkedHashMap 讲的非常有条理，通俗易懂的好文章。
    ---- 
@@ -49,7 +55,7 @@
    
 - [Java多线程同步机制(synchronized)](http://blog.csdn.net/openpk/article/details/5383873)
 
-   作者：[openpk](http://my.csdn.net/openpk)  时间：2010-03-16  来源：CSDN
+   作者：[openpk](http://my.csdn.net/openpk)   时间：2010-03-16  来源：CSDN
 
     > 比较久的一篇文章了，但是对 Synchronize 关键字的解释非常到位，用上厕所的比喻来解释线程同步的概念，例子非常鲜活，好文章。
    ----
