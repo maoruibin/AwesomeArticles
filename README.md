@@ -25,6 +25,14 @@
 
 ## Android / Java
 
+
+- [安卓自定义View进阶-MotionEvent详解](http://www.gcssloop.com/customview/motionevent)
+    
+    作者：[GcsSloop](http://www.gcssloop.com)  时间：2016-11-02  来源：个人博客  
+    > 对 ACTION_CANCEL 和 ACTION_OUTSIDE 的讲解尤其精辟
+    ---- 
+
+
 - [Java并发编程：volatile 关键字解析](http://www.importnew.com/18126.html)
     
     作者：[海子](https://home.cnblogs.com/u/dolphin0520/)   时间：2014-08-22  来源：ImportNew   
