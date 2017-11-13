@@ -23,6 +23,16 @@
    > 详细的自定义 View 教程，从0到1，带你了解自定义 View 的方方面面。 
    ----
 
+
+- [安卓架构组件(Architecture Components) 系列文章翻译](http://www.jianshu.com/p/349f4791a668)
+
+   作者：[Chuckiefan](http://chuckiefan.com/)  时间：2017-06-07  来源：简书
+
+   > 把国外一个讲解 Architecture Components 系列的文章进行了翻译，其中涉及了 LiveData、Room 等新知识点的详细介绍，翻译的不错
+   ----
+
+
+
 ## Android / Java
 
 
