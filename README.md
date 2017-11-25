@@ -36,6 +36,16 @@
 ## Android / Java
 
 
+- [全面了解Android Notification](http://www.jianshu.com/p/22e27a639787)
+    
+    
+    作者：[ConnorLin](http://www.jianshu.com/u/e560b2e52672)  时间：2016-04-21  来源：简书  
+    
+    > 条理清晰，对 notification 的使用做了方方面面的讲解，一篇好教程。
+    
+    ---- 
+
+
 - [安卓自定义View进阶-MotionEvent详解](http://www.gcssloop.com/customview/motionevent)
     
     作者：[GcsSloop](http://www.gcssloop.com)  时间：2016-11-02  来源：个人博客  
