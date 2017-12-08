@@ -36,6 +36,16 @@
 ## Android / Java
 
 
+- [Android应用开发之所有动画使用详解](http://blog.csdn.net/yanbober/article/details/46481171)
+    
+    
+    作者：[工匠若水](http://blog.csdn.net/yanbober)  时间：2015-08-09  来源：CSDN  
+    
+    > 对 Android 动画的使用做了详尽的介绍，文中没有关于动画的原理做介绍，但是对于整个 Android 动画的几种使用方式概括的非常全面，包括一些很小众的动画技巧也有提到，不过动画还是要靠不断的练习才能更上一层楼。
+    
+    ---- 
+
+
 - [全面了解Android Notification](http://www.jianshu.com/p/22e27a639787)
     
     
