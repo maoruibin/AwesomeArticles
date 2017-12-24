@@ -36,6 +36,15 @@
 ## Android / Java
 
 
+- [Dagger2 入门,以初学者角度](https://www.jianshu.com/p/1d84ba23f4d2)
+    
+    
+    作者：[zFxiang_](http://blog.izouxiang.cn/)  时间：2016-10-29  来源：简书  
+    
+    > 深入浅出 Dagger2 ，讲的非常棒！Dagger2 的诸多点都讲到了，而且关联的特别好！
+    
+    ---- 
+
 - [Android应用开发之所有动画使用详解](http://blog.csdn.net/yanbober/article/details/46481171)
     
     
