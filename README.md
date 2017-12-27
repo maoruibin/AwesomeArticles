@@ -32,6 +32,15 @@
    ----
 
 
+- [Java并发性和多线程指南](http://ifeve.com/java-concurrency-thread-directory/)
+
+   作者：[张坤等](http://ifeve.com/)  时间：2013-10-07  并发编程网
+
+   原文：[http://tutorials.jenkov.com/java-concurrency/index.html](http://tutorials.jenkov.com/java-concurrency/index.html)
+
+   > Java 并发编程指南的一个翻译版本系列，很完整的一个系列
+   ----
+
 
 ## Android / Java
 
