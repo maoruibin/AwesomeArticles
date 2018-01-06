@@ -1,12 +1,17 @@
 # **GreatArticles**
 
-收集最好的技术文章，建议 watching 该项目。
+**收集最好的技术文章**
 
-具体原则：
+> 具体原则：
+>
+> * 1、只收集高质量有深度带有自己思考性的技术文章。
+> * 2、经典有深度的系列在线文章。
+> * 3、issue 中收集编辑自己整理一些文章片段。
+>
+>
+> * 文章地址: [https://github.com/maoruibin/GreatArticles](https://github.com/maoruibin/GreatArticles)
+> * 个人主页: [http://gudong.name](http://gudong.name/)
 
-* 1、只收集高质量有深度带有自己思考性的技术文章。
-* 2、经典有深度的系列在线文章。
-* 3、issue 中收集编辑自己整理一些文章片段。
 
 ## 系列文章
 - [Android 性能优化](http://hukai.me/blog/categories/android-performance/)
@@ -14,13 +19,15 @@
    作者：[胡凯](http://hukai.me)  时间：2010-03-16  来源：个人博客
 
    > 性能优化的方方面面，在这里大概都讲到了。
-   ----
+
+   ---
 
 - [安卓自定义 View 教程](http://www.gcssloop.com/customview/CustomViewIndex)
 
    作者：[GcsSloop](http://www.gcssloop.com)  时间：2016-01-05  来源：个人博客
 
    > 详细的自定义 View 教程，从0到1，带你了解自定义 View 的方方面面。 
+
    ----
 
 
@@ -29,6 +36,7 @@
    作者：[Chuckiefan](http://chuckiefan.com/)  时间：2017-06-07  来源：简书
 
    > 把国外一个讲解 Architecture Components 系列的文章进行了翻译，其中涉及了 LiveData、Room 等新知识点的详细介绍，翻译的不错
+
    ----
 
 
@@ -39,52 +47,16 @@
    原文：[http://tutorials.jenkov.com/java-concurrency/index.html](http://tutorials.jenkov.com/java-concurrency/index.html)
 
    > Java 并发编程指南的一个翻译版本系列，很完整的一个系列
+
    ----
 
 
-## Android / Java
-
-
-- [Dagger2 入门,以初学者角度](https://www.jianshu.com/p/1d84ba23f4d2)
-    
-    
-    作者：[zFxiang_](http://blog.izouxiang.cn/)  时间：2016-10-29  来源：简书  
-    
-    > 深入浅出 Dagger2 ，讲的非常棒！Dagger2 的诸多点都讲到了，而且关联的特别好！
-    
-    ---- 
-
-- [Android应用开发之所有动画使用详解](http://blog.csdn.net/yanbober/article/details/46481171)
-    
-    
-    作者：[工匠若水](http://blog.csdn.net/yanbober)  时间：2015-08-09  来源：CSDN  
-    
-    > 对 Android 动画的使用做了详尽的介绍，文中没有关于动画的原理做介绍，但是对于整个 Android 动画的几种使用方式概括的非常全面，包括一些很小众的动画技巧也有提到，不过动画还是要靠不断的练习才能更上一层楼。
-    
-    ---- 
-
-
-- [全面了解Android Notification](http://www.jianshu.com/p/22e27a639787)
-    
-    
-    作者：[ConnorLin](http://www.jianshu.com/u/e560b2e52672)  时间：2016-04-21  来源：简书  
-    
-    > 条理清晰，对 notification 的使用做了方方面面的讲解，一篇好教程。
-    
-    ---- 
-
-
-- [安卓自定义View进阶-MotionEvent详解](http://www.gcssloop.com/customview/motionevent)
-    
-    作者：[GcsSloop](http://www.gcssloop.com)  时间：2016-11-02  来源：个人博客  
-    > 对 ACTION_CANCEL 和 ACTION_OUTSIDE 的讲解尤其精辟
-    ---- 
-
+## Java
 
 - [Java并发编程：volatile 关键字解析](http://www.importnew.com/18126.html)
     
     作者：[海子](https://home.cnblogs.com/u/dolphin0520/)   时间：2014-08-22  来源：ImportNew   
-   > 作者围绕 volatile 关键字把 Java 内存模型以及 Java 运算中的原子性，可见性，有序性有非常深入的分析了一下，读完文章会让你对主内存、工作内存从硬件和软件层面都会有一个非常好的认识。
+    > 作者围绕 volatile 关键字把 Java 内存模型以及 Java 运算中的原子性，可见性，有序性有非常深入的分析了一下，读完文章会让你对主内存、工作内存从硬件和软件层面都会有一个非常好的认识。
     ---- 
 
 - [Java8系列之重新认识HashMap](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651745258&idx=1&sn=df5ffe0fd505a290d49095b3d794ae7a&mpshare=1&scene=1&srcid=0602KPwDM6cb3PTVMdtZ0oX1&key=807bd2816f4e789364526e7bba50ceab7c749cfaca8f63fc1c6b02b65966062194edbc2e5311116c053ad5807fa33c366a23664f76b0b440a62a3d40ec12e7e72973b0481d559380178671cc3771a0db&ascene=0&uin=NjkzMTg2NDA%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=ebineaMbB8BVIeUpnUZjBm8%2BZice%2Bhba5IDsVDpufNY%3D)
@@ -122,6 +94,45 @@
 
   > 对单例模式的异同点，为什么这样写都有很好的描述和解答，非常不错的文章。
    ----
+
+
+
+## Android
+
+- [Dagger2 入门,以初学者角度](https://www.jianshu.com/p/1d84ba23f4d2)
+    
+    
+    作者：[zFxiang_](http://blog.izouxiang.cn/)  时间：2016-10-29  来源：简书  
+    
+    > 深入浅出 Dagger2 ，讲的非常棒！Dagger2 的诸多点都讲到了，而且关联的特别好！
+    
+    ---- 
+
+- [Android应用开发之所有动画使用详解](http://blog.csdn.net/yanbober/article/details/46481171)
+    
+    
+    作者：[工匠若水](http://blog.csdn.net/yanbober)  时间：2015-08-09  来源：CSDN  
+    
+    > 对 Android 动画的使用做了详尽的介绍，文中没有关于动画的原理做介绍，但是对于整个 Android 动画的几种使用方式概括的非常全面，包括一些很小众的动画技巧也有提到，不过动画还是要靠不断的练习才能更上一层楼。
+    
+    ---- 
+
+
+- [全面了解Android Notification](http://www.jianshu.com/p/22e27a639787)
+    
+    
+    作者：[ConnorLin](http://www.jianshu.com/u/e560b2e52672)  时间：2016-04-21  来源：简书  
+    
+    > 条理清晰，对 notification 的使用做了方方面面的讲解，一篇好教程。
+    
+    ---- 
+
+
+- [安卓自定义View进阶-MotionEvent详解](http://www.gcssloop.com/customview/motionevent)
+    
+    作者：[GcsSloop](http://www.gcssloop.com)  时间：2016-11-02  来源：个人博客  
+    > 对 ACTION_CANCEL 和 ACTION_OUTSIDE 的讲解尤其精辟
+    ---- 
 
 - [ContentProvider从入门到精通](http://www.jianshu.com/p/f5ec75a9cfea) 
 
@@ -179,13 +190,17 @@
 
    > 对 Fragment 中的各种 bug 做了解释,并提供了解决方案，良心作者。
    ----
+
+
    
 ## 前端
 
 - [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
     
    作者：[阮一峰](http://www.ruanyifeng.com/)  时间：2015-07-10  来源：个人博客  
+
    > 自己接触前端页面挺早，但是对前端的布局不感冒，跟客户端布局相比，总觉得前端布局比较麻烦，各种 CSS 属性，直到遇到了 Flex 布局，之前就看过阮老师的这篇文章，通俗易懂，非常不错。
+
    ---- 
 
 ## About 
