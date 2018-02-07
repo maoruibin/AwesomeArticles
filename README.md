@@ -4,9 +4,8 @@
 
 > 具体原则：
 >
-> * 1、只收集高质量有深度带有自己思考性的技术文章。
+> * 1、只收集高质量、有深度、带有自己思考性的技术文章。
 > * 2、经典有深度的系列在线文章。
-> * 3、issue 中收集编辑自己整理一些文章片段。
 >
 >
 > * 文章地址: [https://github.com/maoruibin/GreatArticles](https://github.com/maoruibin/GreatArticles)
