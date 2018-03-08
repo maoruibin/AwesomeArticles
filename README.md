@@ -98,6 +98,16 @@
 
 ## Android
 
+
+- [Binder学习指南](http://weishu.me/2016/01/12/binder-index-for-newer/)
+    
+    
+    作者：[Weishu](http://weishu.me/)  时间：2016-01-12  来源：个人博客  
+    
+    > 关于 Binder 的介绍很细致，值得反复阅读。
+    
+    ---- 
+
 - [Dagger2 入门,以初学者角度](https://www.jianshu.com/p/1d84ba23f4d2)
     
     
