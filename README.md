@@ -99,6 +99,25 @@
 ## Android
 
 
+- [Android ListView 与 RecyclerView 对比浅析--缓存机制](http://mp.weixin.qq.com/s/-CzDkEur-iIX0lPMsIS0aA)
+    
+    
+    作者：[黄宁源]()  时间：2016-10-27  来源：腾讯 bugly 
+    
+    > RecycleView 的缓存机制很重要，也是区别于 ListView 最大的地方，这篇文章图文并茂的讲解了两者的区别，值得反复阅读，同时如作者所言 ``结合源码食用更佳。``，另外这篇可以跟 ``RecyclerView 必知必会`` 一起阅读，可能收获更多。
+    
+    ---- 
+
+- [RecyclerView 必知必会](https://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA)
+    
+    
+    作者：[腾讯 天天P图团队——damonxia(夏正冬)，Android工程师]()  时间：2017-01-05  来源：腾讯 bugly 
+    
+    > 从使用层面讲，这一篇几乎涵盖了 RecycleView 的方方面面，包括 LayoutManage、Divider 等知识的讲解，很细致。
+    
+    ---- 
+
+
 - [Binder学习指南](http://weishu.me/2016/01/12/binder-index-for-newer/)
     
     
