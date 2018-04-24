@@ -221,13 +221,13 @@
 
 ## 网络
 
-   - [HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html)  
+ - [HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html)  
 
-      作者：[阮一峰](http://www.ruanyifeng.com/)  时间：2016-08-19  来源：个人博客  
+    作者：[阮一峰](http://www.ruanyifeng.com/)  时间：2016-08-19  来源：个人博客  
 
-      > Http 协议很庞大，但是作者从历史发展谈起，从简单到复杂，循序渐进，作为对 Http 协议的入门了解，这篇文章非常不错。
+    > Http 协议很庞大，但是作者从历史发展谈起，从简单到复杂，循序渐进，作为对 Http 协议的入门了解，这篇文章非常不错。
 
-      ----
+    ----
 
 
 ## 前端
