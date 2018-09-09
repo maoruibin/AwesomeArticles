@@ -240,6 +240,16 @@
 
    ----
 
+## 后端
+
+- [我所认为的RESTful API最佳实践](https://www.scienjus.com/my-restful-api-best-practices/)
+
+   作者：[ScienJus](https://www.scienjus.com)  时间：2016-04-03  来源：个人博客  
+
+   > 作者应该是个后端工程师，文章列举了自己开发过程中总结出的 Restful API 最佳实践，很实用。
+
+   ----
+
 ## About
 咕咚，爱折腾、爱新鲜，爱篮球。
 
