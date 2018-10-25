@@ -11,6 +11,13 @@
 > * 文章地址: [https://github.com/maoruibin/GreatArticles](https://github.com/maoruibin/GreatArticles)
 > * 个人主页: [http://gudong.name](http://gudong.name/)
 
+## Dart
+- [Dart 语言介绍](https://www.yoytang.com/dart-intro.html)
+
+   作者：[deng-dev](https://www.yoytang.com)   时间：2018-01  来源：个人博客
+
+    > 从 Dart 的起源以及发展的历史做了简单的回顾，并对 Dart 的优势进行了分析，如果想要了解 Dart, 这篇文章一定有你想要的。
+   ----
 
 ## 系列文章
 - [Android 性能优化](http://hukai.me/blog/categories/android-performance/)
@@ -97,16 +104,25 @@
 
 
 ## Android
+    
+- [Android 开发者必知必会的权限管理知识](http://mp.weixin.qq.com/s/-CzDkEur-iIX0lPMsIS0aA)
 
 
-- [Android ListView 与 RecyclerView 对比浅析--缓存机制](http://mp.weixin.qq.com/s/-CzDkEur-iIX0lPMsIS0aA)
+    作者：[freddyyao]()  时间：2017-08-03  来源：腾讯 bugly 
 
+    > 对 Android 6，0之前的权限适配讲解很棒。
+
+    ----
+
+
+- [Android ListView 与 RecyclerView 对比浅析--缓存机制](https://mp.weixin.qq.com/s/OQRHEufCUXBA3d3DMZXMKQ)
 
     作者：[黄宁源]()  时间：2016-10-27  来源：腾讯 bugly 
 
     > RecycleView 的缓存机制很重要，也是区别于 ListView 最大的地方，这篇文章图文并茂的讲解了两者的区别，值得反复阅读，同时如作者所言 ``结合源码食用更佳。``，另外这篇可以跟 ``RecyclerView 必知必会`` 一起阅读，可能收获更多。
 
     ----
+    
 
 - [RecyclerView 必知必会](https://mp.weixin.qq.com/s/CzrKotyupXbYY6EY2HP_dA)
 
