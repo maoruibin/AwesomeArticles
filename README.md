@@ -59,6 +59,15 @@
 
 ## Java
 
+- [关于Java的Hash算法的深入理解](https://blog.csdn.net/sinat_31011315/article/details/78699655)
+
+    作者：[千年道士](https://me.csdn.net/sinat_31011315)   时间：2017-12-03  来源：CSDN   
+    > 你可能经常使用 HashMap，但是你未必了解 HashMap 一个重要的概念： map 中 key 对应的 hash 算法是干吗的，另外为什么 HashMap 的初始容量为 16，这里面有什么学问，以及认真分析了并发条件下，HashMap 可能会出现回路环的问题。
+    
+    标签：``HashMap``
+    
+    ----
+
 - [Java并发编程：volatile 关键字解析](http://www.importnew.com/18126.html)
 
     作者：[海子](https://home.cnblogs.com/u/dolphin0520/)   时间：2014-08-22  来源：ImportNew   
