@@ -223,6 +223,13 @@
    > 讲的很透彻，读完后你会对 Activity 的启动模式，任务栈有更深的了解。
    ----
 
+- [一文读懂Android View事件分发机制](https://www.jianshu.com/p/238d1b753e64)
+
+   作者：[Flyzend](https://github.com/flyzend)  时间：2017-05-22  来源：简书
+
+   > 文风诙谐，分析有理，喜欢这样的文章。
+   ----
+
 - [Android事件分发机制详解：史上最全面、最易懂](http://www.jianshu.com/p/38015afcdb58)
 
    作者：[Carson_Ho](http://www.jianshu.com/u/383970bef0a0)  时间：2016-01-06  来源：简书
