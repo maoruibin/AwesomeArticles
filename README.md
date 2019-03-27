@@ -59,6 +59,22 @@
 
 ## Java
 
+- [了解 JVM 内部](https://www.cubrid.org/blog/understanding-jvm-internals/)
+
+    作者：[Se Hoon Park](https://www.cubrid.org)   时间：2017-05-30  来源：国外博客   
+
+    > 非常详细的讲解了jvm的宏观概念，同时还把jvm内部的细节通过代码方式逐一做了详细的说明，文章有点长。
+
+    
+
+    标签：``JVM``
+
+    
+
+    ----
+
+
+
 - [关于Java的Hash算法的深入理解](https://blog.csdn.net/sinat_31011315/article/details/78699655)
 
     作者：[千年道士](https://me.csdn.net/sinat_31011315)   时间：2017-12-03  来源：CSDN   
