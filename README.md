@@ -20,6 +20,17 @@
    ----
 
 ## 系列文章
+
+- [深入理解Java技术](http://wingjay.com/categories/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E6%8A%80%E6%9C%AF/)
+
+   作者：[wingjay](http://wingjay.com)  时间：时间：2017-04/05  个人博客
+
+   原文：[http://tutorials.jenkov.com/java-concurrency/index.html](http://tutorials.jenkov.com/java-concurrency/index.html)
+
+   > 文风不错，有深度，有思考
+
+   ----
+
 - [Android 性能优化](http://hukai.me/blog/categories/android-performance/)
 
    作者：[胡凯](http://hukai.me)  时间：2010-03-16  来源：个人博客
