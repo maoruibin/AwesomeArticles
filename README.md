@@ -140,7 +140,17 @@
 
 
 ## Android
-    
+
+- [谈谈Android的so \| Allen's Zone](http://allenfeng.com/2016/11/06/what-you-should-know-about-android-abi-and-so/)
+
+
+    作者：[Allen](http://allenfeng.com)  时间：2016-11-06  来源：个人博客
+
+    > 十分全面的讲解了 Android 中 .so 文件的相关内容。
+
+    ----
+
+
 - [Android 开发者必知必会的权限管理知识](http://mp.weixin.qq.com/s/-CzDkEur-iIX0lPMsIS0aA)
 
 
