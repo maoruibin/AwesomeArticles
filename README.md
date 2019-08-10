@@ -148,6 +148,14 @@
 
 ## Android
 
+### [探索Activity之启动Intent Flag和taskAffinity \- 简书](https://www.jianshu.com/p/c97688eb5056#h5o-9)
+
+作者：[anly_kun](https://www.jianshu.com/u/bc1dacc65fae)  时间：2016.07.31  来源：简书
+
+> 对照官方文档按个验证了 Intent.Flag 的不同属性，尽信书则不如无书，官方文档一些描述确实需要更新了
+
+------------------
+
 ### [谈谈Android的so \| Allen's Zone](http://allenfeng.com/2016/11/06/what-you-should-know-about-android-abi-and-so/)
 
 
