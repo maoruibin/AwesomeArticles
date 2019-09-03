@@ -148,6 +148,13 @@
 
 ## Android
 
+### [Android 沉浸式解析和轮子使用\-InfoQ](https://www.infoq.cn/article/PaCj30OK19ubiSbdrbHG)
+
+作者：[黑羽](https://www.infoq.cn/profile/1641146)  时间：2019.08.29  来源：InfoQ
+
+> 沉浸式说的很明白，尤其对不同版本的差异说的很清楚。
+
+
 ### [探索Activity之启动Intent Flag和taskAffinity \- 简书](https://www.jianshu.com/p/c97688eb5056#h5o-9)
 
 作者：[anly_kun](https://www.jianshu.com/u/bc1dacc65fae)  时间：2016.07.31  来源：简书
