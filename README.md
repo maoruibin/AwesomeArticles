@@ -148,6 +148,12 @@
 
 ## Android
 
+### [Android消息机制，你真的了解Handler吗？](https://mp.weixin.qq.com/s/JSrMjvBVBYeq6iBOWTGUng)
+
+作者：[凶残的程序员](http://blog.csdn.net/qian520ao)  时间：2017.11.17  来源：公众号
+
+> 由 Handler 展开分析了不少，尤其对 Looper.loop() 分析摘录很棒，文中的链接也很有价值
+
 ### [Android 沉浸式解析和轮子使用\-InfoQ](https://www.infoq.cn/article/PaCj30OK19ubiSbdrbHG)
 
 作者：[黑羽](https://www.infoq.cn/profile/1641146)  时间：2019.08.29  来源：InfoQ
