@@ -148,6 +148,14 @@
 
 ## Android
 
+### [Android混淆从入门到精通 \- 简书](https://www.jianshu.com/p/7436a1a32891)
+
+
+作者：[CPPAlien \- 彭涛的博客](http://www.pengtao.me/)  时间：2016.09.22  来源：简书
+
+> 对 Android 混淆由浅入深的讲解，细致且全面，好评。
+
+
 ### [Android消息机制，你真的了解Handler吗？](https://mp.weixin.qq.com/s/JSrMjvBVBYeq6iBOWTGUng)
 
 作者：[凶残的程序员](http://blog.csdn.net/qian520ao)  时间：2017.11.17  来源：公众号
