@@ -23,6 +23,16 @@
 
 ## 系列文章
 
+
+
+### [Weekly blog](https://github.com/itsCoder/weeklyblog)
+
+作者：[itscoder](https://itscoder.com/)  时间：2017-2018  集体博客
+
+> 一群技术爱好者的 WeeklyBlog,质量不错，可惜现在已经不更新了
+
+------------------
+
 ### [深入理解Java技术](http://wingjay.com/categories/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E6%8A%80%E6%9C%AF/)
 
 作者：[wingjay](http://wingjay.com)  时间：时间：2017-04/05  个人博客
