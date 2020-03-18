@@ -82,6 +82,14 @@
 
 ## Java
 
+### [时间复杂度 O(log n) 意味着什么？](https://github.com/xitu/gold-miner/blob/master/TODO/what-does-the-time-complexity-o-log-n-actually-mean.md)
+
+作者：[[Maaz \- Hacker Noon](https://hackernoon.com/@maazrk)   时间：2017-06  来源：掘金翻译   
+
+> 很直白把 LogN将明白了
+
+
+
 ### [了解 JVM 内部](https://www.cubrid.org/blog/understanding-jvm-internals/)
 
 作者：[Se Hoon Park](https://www.cubrid.org)   时间：2017-05-30  来源：国外博客   
