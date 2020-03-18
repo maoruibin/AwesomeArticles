@@ -84,9 +84,9 @@
 
 ### [时间复杂度 O(log n) 意味着什么？](https://github.com/xitu/gold-miner/blob/master/TODO/what-does-the-time-complexity-o-log-n-actually-mean.md)
 
-作者：[[Maaz \- Hacker Noon](https://hackernoon.com/@maazrk)   时间：2017-06  来源：掘金翻译   
+作者：[Maaz \- Hacker Noon](https://hackernoon.com/@maazrk)   时间：2017-06  来源：掘金翻译   
 
-> 很直白把 LogN将明白了
+> 很直白把 LogN 将明白了
 
 
 
