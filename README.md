@@ -166,7 +166,9 @@
 
 ## Android
 
+### [Improving Comment Rendering on Android \- Instagram Engineering](https://instagram-engineering.com/improving-comment-rendering-on-android-a77d5db3d82e)  作者：Instagram Engineering 来源 [Instagram Engineering](https://instagram-engineering.com/@InstagramEng)
 
+> 简单直白的把 TextView 的性能问题做了分析并给出了解决方法 TextLayoutCache，另外简书一篇文章也不错 [TextView性能瓶颈，渲染优化，以及StaticLayout的一些用处 \- 简书](https://www.jianshu.com/p/9f7f9213bff8)
 
 ### [服务概览](https://developer.android.com/guide/components/services?hl=zh-cn)
 
