@@ -166,6 +166,11 @@
 
 ## Android
 
+### [清晰理解红黑树的演变\-\-\-红黑的含义 \- 甜菜波波 \- 博客园](https://www.cnblogs.com/tiancai/p/9072813.html)
+作者：[甜菜波波 \- 博客园](https://www.cnblogs.com/tiancai/)
+> mark 
+标签：`红黑树`
+
 ### [Improving Comment Rendering on Android \- Instagram Engineering](https://instagram-engineering.com/improving-comment-rendering-on-android-a77d5db3d82e)  
 作者：Instagram Engineering 来源 [Instagram Engineering](https://instagram-engineering.com/@InstagramEng)
 
