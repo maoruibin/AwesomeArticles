@@ -82,6 +82,18 @@
 
 ## Java
 
+### [全面理解 Java 内存模型\_Java\_Heaven Wang 的专栏 \- CSDN 博客](https://blog.csdn.net/suifeng3051/article/details/52611310)
+
+作者：[CSDN \- 个人空间](https://me.csdn.net/suifeng3051)  2016-09-21 
+
+> 从 CPU、RAM 硬件模型到线程内存模型，从源头分析了多线程中的问题，对理解 volatile、synchronized 的核心原理非常有帮助
+
+### [汇编语言：了解寄存器与内存模型 \- 地铁程序员 \- 博客园](https://www.cnblogs.com/yiyi17/p/9283103.html)
+
+作者: 地铁程序员 2018-07-09
+
+> 从汇编语言讲起，对理解 CPU 寄存器、高度缓存很有帮助。
+
 ### [时间复杂度 O(log n) 意味着什么？](https://github.com/xitu/gold-miner/blob/master/TODO/what-does-the-time-complexity-o-log-n-actually-mean.md)
 
 作者：[Maaz \- Hacker Noon](https://hackernoon.com/@maazrk)   时间：2017-06  来源：掘金翻译   
