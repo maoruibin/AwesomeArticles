@@ -94,13 +94,15 @@
 
 > 从汇编语言讲起，对理解 CPU 寄存器、高度缓存很有帮助。
 
+------------------
+
 ### [时间复杂度 O(log n) 意味着什么？](https://github.com/xitu/gold-miner/blob/master/TODO/what-does-the-time-complexity-o-log-n-actually-mean.md)
 
 作者：[Maaz \- Hacker Noon](https://hackernoon.com/@maazrk)   时间：2017-06  来源：掘金翻译   
 
 > 很直白把 LogN 将明白了
 
-
+------------------
 
 ### [了解 JVM 内部](https://www.cubrid.org/blog/understanding-jvm-internals/)
 
@@ -108,7 +110,7 @@
 
 > 非常详细的讲解了jvm的宏观概念，同时还把jvm内部的细节通过代码方式逐一做了详细的说明，文章有点长。
 
-
+------------------
 
 标签：``JVM``
 
@@ -184,19 +186,27 @@
 作者：[OPPO 互联网技术 的个人主页](https://juejin.im/user/3456520290310397)  时间：2020-03-05  来源：掘金
 > 对 OKHTTP 进行结构拆分，没有粘贴大量的代码。阅读体验不错。
 
+------------------
+
 ### [kotlin \- Coroutine 协程 \- 简书](https://www.jianshu.com/p/76d2f47b900d)
 作者：[前行的乌龟](https://www.jianshu.com/u/fb093dd92ed8)  时间：2019-03-28  来源：简书
 > 协程与线程的区别讲的很明白。
+
+------------------
 
 ### [清晰理解红黑树的演变\-\-\-红黑的含义 \- 甜菜波波 \- 博客园](https://www.cnblogs.com/tiancai/p/9072813.html)
 作者：[甜菜波波 \- 博客园](https://www.cnblogs.com/tiancai/)
 > mark 
 标签：`红黑树`
 
+------------------
+
 ### [Improving Comment Rendering on Android \- Instagram Engineering](https://instagram-engineering.com/improving-comment-rendering-on-android-a77d5db3d82e)  
 作者：Instagram Engineering 来源 [Instagram Engineering](https://instagram-engineering.com/@InstagramEng)
 
 > 简单直白的把 TextView 的性能问题做了分析并给出了解决方法 TextLayoutCache，另外简书一篇文章也不错 [TextView性能瓶颈，渲染优化，以及StaticLayout的一些用处 \- 简书](https://www.jianshu.com/p/9f7f9213bff8)
+
+------------------
 
 ### [服务概览](https://developer.android.com/guide/components/services?hl=zh-cn)
 
@@ -205,6 +215,7 @@
 
 > 官方文档永远是一手资料，Service 的文档写的尤其好。
 
+------------------
 
 ### [Android混淆从入门到精通 \- 简书](https://www.jianshu.com/p/7436a1a32891)
 
@@ -213,6 +224,8 @@
 
 > 对 Android 混淆由浅入深的讲解，细致且全面，好评。
 
+------------------
+
 
 ### [Android消息机制，你真的了解Handler吗？](https://mp.weixin.qq.com/s/JSrMjvBVBYeq6iBOWTGUng)
 
@@ -220,11 +233,15 @@
 
 > 由 Handler 展开分析了不少，尤其对 Looper.loop() 分析摘录很棒，文中的链接也很有价值
 
+------------------
+
 ### [Android 沉浸式解析和轮子使用\-InfoQ](https://www.infoq.cn/article/PaCj30OK19ubiSbdrbHG)
 
 作者：[黑羽](https://www.infoq.cn/profile/1641146)  时间：2019.08.29  来源：InfoQ
 
 > 沉浸式说的很明白，尤其对不同版本的差异说的很清楚。
+
+------------------
 
 
 ### [探索Activity之启动Intent Flag和taskAffinity \- 简书](https://www.jianshu.com/p/c97688eb5056#h5o-9)
