@@ -8,7 +8,7 @@
 > * 2、经典有深度的系列在线文章。
 >
 >
-> * 文章地址: [https://github.com/maoruibin/GreatArticles](https://github.com/maoruibin/GreatArticles)
+> * 文章地址: [https://github.com/maoruibin/AwesomeArticles]AwesomeArticlesub.com/maoruibin/AwesomeArticles)
 > * 个人主页: [http://gudong.name](http://gudong.name/)
 
 ## Dart
