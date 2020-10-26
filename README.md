@@ -8,7 +8,7 @@
 > * 2、经典有深度的系列在线文章。
 >
 >
-> * 文章地址: [https://github.com/maoruibin/AwesomeArticles]AwesomeArticlesub.com/maoruibin/AwesomeArticles)
+> * 文章地址: [https://github.com/maoruibin/AwesomeArticles](https://github.com/maoruibin/AwesomeArticles)
 > * 个人主页: [http://gudong.name](http://gudong.name/)
 
 ## Dart
@@ -487,7 +487,7 @@
 
 
 ## About
-咕咚，爱折腾、爱新鲜，爱篮球。
+咕咚
 
 你可以通过下面的方式联系到我，欢迎关注。
 
