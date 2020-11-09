@@ -11,6 +11,8 @@
 > * 文章地址: [https://github.com/maoruibin/AwesomeArticles](https://github.com/maoruibin/AwesomeArticles)
 > * 个人主页: [http://gudong.name](http://gudong.name/)
 
+> Note: 文章较多，没有生成目录，建议配合插件[Smart TOC \- Chrome 网上应用店](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba)使用
+
 ## Dart
 
 ### [Dart 语言介绍](https://www.yoytang.com/dart-intro.html)
